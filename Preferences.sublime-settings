@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/IDLE.tmTheme",
+	"font_size": 12,
+	 "file_exclude_patterns": ["*.js","*.js.map"],
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}

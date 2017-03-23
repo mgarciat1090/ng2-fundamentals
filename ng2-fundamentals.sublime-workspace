@@ -1,0 +1,1390 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"a\t<a>"
+			],
+			[
+				"html",
+				"html\thtml"
+			],
+			[
+				"fs",
+				"fs.unlinkSync(path);"
+			],
+			[
+				"as",
+				"Asset"
+			],
+			[
+				"vertical",
+				"originalVerticalRatio"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/events-app.component.ts",
+			"settings":
+			{
+				"buffer_size": 188,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/app.module.ts",
+			"settings":
+			{
+				"buffer_size": 580,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/nav/navbar.component.ts",
+			"settings":
+			{
+				"buffer_size": 320,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/nav/navbar.component.html",
+			"settings":
+			{
+				"buffer_size": 1154,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/events/event-thumbnail.component.ts",
+			"settings":
+			{
+				"buffer_size": 1122,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/events/events-list.component.ts",
+			"settings":
+			{
+				"buffer_size": 12476,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 297.0,
+		"last_filter": "comment",
+		"selected_items":
+		[
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"user",
+				"Nodejs::User File Settings"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Set Syntax: JSX"
+			],
+			[
+				"inputsub",
+				"Snippet: input - submit"
+			],
+			[
+				"button",
+				"Snippet: bs3-button"
+			],
+			[
+				"bs3-tex",
+				"Snippet: bs3-textarea"
+			],
+			[
+				"toggle",
+				"Toggle Comment"
+			],
+			[
+				"commen",
+				"Toggle Comment"
+			],
+			[
+				"bs3-but",
+				"Snippet: bs3-button"
+			],
+			[
+				"togg",
+				"Toggle Comment"
+			],
+			[
+				"toggl",
+				"Toggle Comment"
+			],
+			[
+				"jumbo",
+				"Snippet: bs3-jumbotron"
+			],
+			[
+				"bs3-hea",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"server",
+				"SublimeServer: Restart SublimeServer"
+			],
+			[
+				"react",
+				"Set Syntax: React Templates"
+			],
+			[
+				"sublim",
+				"SublimeServer: Manage SublimeServer Settings"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Snippet: htmlboiler"
+			],
+			[
+				"base6",
+				"XssEncode: Base64_Decode"
+			],
+			[
+				"base64",
+				"XssEncode: Base64_Decode"
+			],
+			[
+				"jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"cdn sea",
+				"Cdnjs: Search"
+			],
+			[
+				"cdn se",
+				"Cdnjs: Search"
+			],
+			[
+				"cdn",
+				"Cdnjs: Import Script"
+			],
+			[
+				"html5",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"bs3-im",
+				"Snippet: bs3-image"
+			],
+			[
+				"bs3-lab",
+				"Snippet: bs3-label-default"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"git log",
+				"Git: Log All"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git checkout",
+				"Git: Checkout Current File"
+			],
+			[
+				"git reset",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git bla",
+				"Git: Blame"
+			],
+			[
+				"prett",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"map",
+				"View: Toggle Minimap"
+			],
+			[
+				"git bl",
+				"Git: Blame"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 641.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/WebDev/ng2-fundamentals",
+		"/E/WebDev/ng2-fundamentals/app",
+		"/E/WebDev/ng2-fundamentals/app/events",
+		"/E/WebDev/ng2-fundamentals/app/nav"
+	],
+	"file_history":
+	[
+		"/E/WebDev/ng2-fundamentals/index.html",
+		"/E/WebDev/ng2-fundamentals/app/nav/nav.component.ts",
+		"/E/WebDev/ng2-fundamentals/app/events-app.component.js",
+		"/E/WebDev/ng2-fundamentals/app/app.module.ts",
+		"/E/WebDev/ng2-fundamentals/app/main.ts",
+		"/E/WebDev/ng2-fundamentals/app/events-app.component.ts",
+		"/E/WebDev/ng2-fundamentals/app/events/event-thumbnail.component.ts",
+		"/E/WebDev/ng2-fundamentals/package.json",
+		"/E/WebDev/exotechnia/index.html",
+		"/E/WebDev/ng2-fundamentals/app/events/events-list.component.ts",
+		"/E/WebDev/dynamic/app.js",
+		"/E/WebDev/dynamic/static/index.html",
+		"/E/WebDev/dynamic/start.js",
+		"/E/WebDev/ng2-fundamentals/app/events/events-list.component.js",
+		"/E/WebDev/ng2-fundamentals/app/app.module.js",
+		"/E/WebDev/ng2-fundamentals/app/events/events-list.component.html",
+		"/E/WebDev/ng2-fundamentals/ng2-fundamentals.sublime-project",
+		"/E/WebDev/ng2-fundamentals/app/main.js",
+		"/E/WebDev/ng2-fundamentals/systemjs.config.js",
+		"/E/WebDev/ng2-fundamentals/Preferences.sublime-settings",
+		"/C/Users/Martin/AppData/Roaming/Sublime Text 3/Packages/User/Nodejs.sublime-settings",
+		"/E/WebDev/exotechnia/server.js",
+		"/E/WebDev/mp-ingest/package.json",
+		"/E/WebDev/mp-ingest/Server/web.js",
+		"/E/WebDev/exotechnia/package.json",
+		"/E/WebDev/exotechnia/.gitignore",
+		"/E/WebDev/exot/client/index.html",
+		"/E/WebDev/exotechnia/client/index_tmp.html",
+		"/E/WebDev/exotechnia/client/index.html",
+		"/C/Users/Martin/.ssh/id_rsa.pub",
+		"/E/WebDev/exotechnia/gulpfile.babel.js",
+		"/E/WebDev/DynKOA/app.js",
+		"/E/WebDev/DynKOA/test/helpers.js",
+		"/E/WebDev/DynKOA/lib/db.js",
+		"/E/WebDev/DynKOA/test/addVote.spec.js",
+		"/E/WebDev/DynKOA/routes/questionRoutes.js",
+		"/E/WebDev/DynKOA/views/comment.html",
+		"/E/WebDev/DynKOA/views/newVote.html",
+		"/E/WebDev/DynKOA/test/addComent.spec.js",
+		"/E/WebDev/DynKOA/routes/voteRoutes.js",
+		"/E/WebDev/DynKOA/.gitignore",
+		"/E/WebDev/DynKOA/lib/render.js",
+		"/E/WebDev/DynKOA/routes/utils.js",
+		"/E/WebDev/exotechnia/node_modules/webpack/node_modules/watchpack/test/helpers/TestHelper.js",
+		"/E/WebDev/DynKOA/routes/homeRoutes.js",
+		"/E/WebDev/DynKOA/views/home.html",
+		"/E/WebDev/DynKOA/routes/userRoutes.js",
+		"/E/WebDev/DynKOA/views/showQuestion.html",
+		"/E/WebDev/DynKOA/views/layout.html",
+		"/E/WebDev/DynKOA/test/home.spec.js",
+		"/E/WebDev/DynKOA/test/addQuestion.spec.js",
+		"/E/WebDev/DynKOA/views/newQuestion.html",
+		"/E/WebDev/DynKOA/test/updateQuestion.spec.js",
+		"/E/WebDev/DynKOA/test.js",
+		"/E/WebDev/DynKOA/package.json",
+		"/E/WebDev/DynKOA/public/bootstrap-superhero.min.css",
+		"/E/WebDev/DynBackend/src/api/users.js",
+		"/E/WebDev/DynBackend/src/models/users.js",
+		"/E/WebDev/DynBackend/src/models/trainers.js",
+		"/E/WebDev/DynBackend/node_modules/resource-router-middleware/src/resource-router-middleware.js",
+		"/E/WebDev/DynBackend/src/api/facets.js",
+		"/E/WebDev/DynBackend/package.json",
+		"/E/WebDev/DynBackend/src/api/index.js",
+		"/E/WebDev/DynBackend/src/api/trainers.js",
+		"/E/WebDev/DynBackend/dist/api/users.js",
+		"/E/WebDev/mp-ingest/Server/work/admin/codevalues.js",
+		"/E/WebDev/DynBackend/dist/models/users.js",
+		"/E/WebDev/es6-rapid/index.js",
+		"/E/WebDev/DynBackend/dist/models/facets.js",
+		"/E/WebDev/DynBackend/dist/api/facets.js",
+		"/E/WebDev/DynBackend/src/db/index.js",
+		"/E/WebDev/Dyn2/gulpfile.js",
+		"/E/WebDev/DynBackend/gulpfile.js",
+		"/E/WebDev/DynBackend/node_modules/resource-router-middleware/resource-router-middleware.js",
+		"/E/WebDev/react/script.js",
+		"/E/WebDev/react/temp_index.html",
+		"/E/WebDev/react/style.css",
+		"/C/Users/Martin/AppData/Roaming/Sublime Text 3/Packages/User/SublimeServer.sublime-settings",
+		"/E/WebDev/DynBackend/src/config/logging.js",
+		"/E/WebDev/DynBackend/src/index.js",
+		"/E/WebDev/mp-ingest/Server/config/winston_manager.js",
+		"/E/WebDev/mp-ingest/Server/work/export/export.js",
+		"/E/WebDev/mp-ingest/Server/config/postgresdb.js",
+		"/E/WebDev/DynBackend/dist/config/logging.js",
+		"/E/WebDev/mp-ingest/Server/shared/db_manager.js",
+		"/E/WebDev/DynBackend/src/config/index.js",
+		"/E/WebDev/DynBackend/src/middleware/index.js",
+		"/E/WebDev/DynBackend/src/models/facets.js",
+		"/E/WebDev/DynBackend/.gitignore",
+		"/E/WebDev/DynBackend/README.md",
+		"/E/WebDev/es6-rapid/server.js",
+		"/E/WebDev/es6-rapid/module1.js",
+		"/E/WebDev/es6-rapid/index.html",
+		"/E/WebDev/dynamic/app/index.html",
+		"/E/WebDev/dynamic/app/scripts/app.js",
+		"/E/WebDev/es6-rapid/base.js",
+		"/E/WebDev/exotechnia/README.md",
+		"/E/WebDev/es6-rapid/traceur.min.js",
+		"/E/WebDev/cinemmate/scripts/controllers/DetailCtrl.js",
+		"/E/WebDev/es6-rapid/es6-module-loader-dev.js",
+		"/E/WebDev/avalonbd/server.js",
+		"/E/WebDev/avalonbd/src/lib/catalog/package.json",
+		"/E/WebDev/avalonbd/src/models/movie_details.js",
+		"/E/WebDev/avalonbd/src/models/movie.js",
+		"/E/WebDev/avalonbd/src/models/artist.js",
+		"/E/WebDev/react/js/app.js",
+		"/E/WebDev/react/js/components/Forum.react.js",
+		"/E/WebDev/react/package.json",
+		"/E/WebDev/react/index.html",
+		"/E/WebDev/react/js/components/ForumQuestion.react.js",
+		"/E/WebDev/react/js/components/ForumHeader.react.js",
+		"/E/WebDev/exotechnia/client/app/app.scss",
+		"/E/WebDev/exotechnia/client/app/main/main.scss",
+		"/E/WebDev/exotechnia/client/app/main/main.component.js",
+		"/E/WebDev/exotechnia/client/app/app.constants.js",
+		"/E/WebDev/exotechnia/server/index.html",
+		"/E/WebDev/exotechnia/client/app/main/main.html",
+		"/E/WebDev/exotechnia/client/app/app.config.js",
+		"/E/WebDev/exotechnia/server/config/environment/shared.js",
+		"/E/WebDev/mp-ingest/dbmigration/flyway-heroku-staging.conf",
+		"/E/WebDev/mp-ingest/Server/routes-api/artwork.js",
+		"/E/WebDev/mp-ingest/Server/work/artwork/updateArtworkTask.js",
+		"/E/WebDev/mp-ingest/Client/app/modules/Artwork/Review/artworkFixedPathsController.js",
+		"/E/WebDev/mp-ingest/Client/app/modules/Artwork/Review/index.js",
+		"/E/WebDev/mp-ingest/Client/app/styles/modules/artwork/artwork.scss",
+		"/E/WebDev/mp-ingest/Client/app/views/artwork/artwork.html",
+		"/E/WebDev/mp-ingest/Client/app/modules/Artwork/Review/services/artworkCompareService.js",
+		"/E/WebDev/mp-ingest/Client/app/views/artwork/review/compare.html"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"E:\\WebDev\\DynKOA\\",
+			"E:\\WebDev\\DynKOA\\test",
+			"E:\\WebDev\\DynKOA\\routes",
+			"E:\\WebDev\\DynKOA",
+			"E:\\WebDev\\mp-ingest\\Server\\work",
+			"E:\\WebDev\\exotechnia\\client\\app",
+			"E:\\WebDev\\mp-ingest\\Server",
+			"E:\\WebDev\\mp-ingest\\Client\\app\\modules",
+			"E:\\WebDev\\mp-ingest\\Server",
+			"E:\\WebDev\\mp-ingest\\Client\\app\\modules\\Artwork\\Review\\artworkFixedPathsController.js,E:\\WebDev\\mp-ingest\\Server\\work",
+			"E:\\WebDev\\mp-ingest\\Server",
+			"E:\\WebDev\\mp-ingest\\Server\\work\\import",
+			"E:\\WebDev\\mp-ingest\\Server",
+			"E:\\WebDev\\mp-ingest\\Server\\work",
+			"E:\\WebDev\\mp-ingest\\Server",
+			"E:\\WebDev\\mp-ingest\\Server\\work",
+			"E:\\WebDev\\mp-ingest\\Server",
+			"E:\\WebDev\\mp-ingest\\Server\\services",
+			"E:\\WebDev\\mp-ingest\\Server\\routes-api",
+			"E:\\WebDev\\mp-ingest\\Server",
+			"E:\\WebDev\\mp-ingest\\Client\\app\\modules"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"EventEmitter",
+			"style",
+			"platformBrowserDynamic",
+			"self.app",
+			"createserver",
+			"http",
+			"app.use(express.static(path.join(__dirname, 'public')));\n",
+			"static",
+			"default",
+			"express(",
+			"serveStatic",
+			"SampleApp",
+			"css",
+			"server",
+			"server}",
+			"server",
+			"console.log",
+			"voteForm",
+			"voteValue",
+			"submitVote",
+			"questionId",
+			"tagString",
+			"{{",
+			"split",
+			"p",
+			"s´plit",
+			"ex",
+			"exists",
+			"splitand",
+			"exists",
+			"splitAndTrimTagString",
+			"parse",
+			"console",
+			"questionId",
+			"add vote",
+			"db",
+			"{{",
+			"console.",
+			"console",
+			"bootstrap-super",
+			"voteRoutes",
+			"findById",
+			"voteRoutes",
+			"db",
+			"=\"\"",
+			"questionTitle",
+			"users",
+			"questions",
+			"db",
+			"questions",
+			"users.",
+			"});",
+			"should",
+			"js",
+			"deleteUser",
+			"app",
+			"getUserTest",
+			"resource",
+			"users",
+			"trainers",
+			"Trainers",
+			"trainers",
+			"Trainers",
+			"trainers",
+			"Trainers",
+			"trainers",
+			"User",
+			"user",
+			"User",
+			"user",
+			"userList",
+			"UserList",
+			"userList",
+			"UserList",
+			"userList",
+			"UserList",
+			"userList",
+			"vals",
+			"update",
+			"var",
+			"users",
+			"db",
+			"users",
+			"user",
+			"User",
+			");\n",
+			"initializeDb",
+			"'",
+			"parent",
+			"users",
+			"facet",
+			"facets",
+			"'",
+			"initializeDb",
+			"db",
+			"initializeDb",
+			"api",
+			"config",
+			"query",
+			"config",
+			"db",
+			"api",
+			"config",
+			"prepublish",
+			"nsp",
+			"babel",
+			"facet",
+			"facets",
+			"resource",
+			"server-add",
+			"console.log",
+			"lib",
+			"app",
+			"default",
+			"8000",
+			"port",
+			"istanbul",
+			"/js",
+			"class",
+			"confValues",
+			";\n",
+			"socket",
+			"confValues",
+			"appConfig",
+			"$http",
+			"$http.get",
+			"ArtworkCompareController",
+			"isActive"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"if (typeof err !== 'undefined' && err)",
+			"if (typeof error !== 'undefined' && error)"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/events-app.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 188,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								107,
+								107
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/app.module.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 580,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								332,
+								332
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/nav/navbar.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 320,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								209,
+								209
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/nav/navbar.component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1154,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1154,
+								1154
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "app/events/event-thumbnail.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1122,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								810,
+								810
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 396.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/events/events-list.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12476,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								204,
+								204
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"use_tab_stops": false
+						},
+						"translation.x": 36.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.399298916507,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ng2-fundamentals.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"vote.html",
+				"DynKOA\\views\\newVote.html"
+			],
+			[
+				"voter",
+				"DynKOA\\routes\\voteRoutes.js"
+			],
+			[
+				"questionroute",
+				"DynKOA\\routes\\questionRoutes.js"
+			],
+			[
+				"testhelper",
+				"exotechnia\\node_modules\\webpack\\node_modules\\watchpack\\test\\helpers\\TestHelper.js"
+			],
+			[
+				"app.js",
+				"DynKOA\\app.js"
+			],
+			[
+				"db.js",
+				"DynKOA\\lib\\db.js"
+			],
+			[
+				"userroutes",
+				"DynKOA\\routes\\userRoutes.js"
+			],
+			[
+				"homeroutes",
+				"DynKOA\\routes\\homeRoutes.js"
+			],
+			[
+				"voteroute",
+				"DynKOA\\routes\\voteRoutes.js"
+			],
+			[
+				"users.js",
+				"DynBackend\\dist\\models\\users.js"
+			],
+			[
+				"rapid",
+				"es6-rapid\\index.js"
+			],
+			[
+				"facets.js",
+				"DynBackend\\src\\api\\facets.js"
+			],
+			[
+				"facets",
+				"DynBackend\\dist\\api\\facets.js"
+			],
+			[
+				"resource-router",
+				"DynBackend\\node_modules\\resource-router-middleware\\resource-router-middleware.js"
+			],
+			[
+				"users.",
+				"DynBackend\\dist\\api\\users.js"
+			],
+			[
+				"loggin",
+				"DynBackend\\dist\\config\\logging.js"
+			],
+			[
+				"exotechniareadme.md",
+				"exotechnia\\README.md"
+			],
+			[
+				"module1",
+				"es6-rapid\\module1.js"
+			],
+			[
+				"package",
+				"mp-ingest\\package.json"
+			],
+			[
+				"shared",
+				"exotechnia\\server\\config\\environment\\shared.js"
+			],
+			[
+				"flyway-heroku-staging.conf",
+				"dbmigration\\flyway-heroku-staging.conf"
+			],
+			[
+				"artworkindex",
+				"Client\\app\\modules\\Artwork\\index.js"
+			],
+			[
+				"artwork.html",
+				"Client\\app\\views\\artwork\\artwork.html"
+			],
+			[
+				"postgre",
+				"Server\\config\\postgresdb.js"
+			],
+			[
+				"postgres",
+				"Server\\config\\postgresdb.js"
+			],
+			[
+				"db_man",
+				"Server\\shared\\db_manager.js"
+			],
+			[
+				"config.js",
+				"Client\\app\\config.js"
+			],
+			[
+				"bower",
+				"Client\\bower.json"
+			],
+			[
+				"web",
+				"Server\\web.js"
+			],
+			[
+				"review/index.js",
+				"Client\\app\\modules\\Artwork\\Review\\index.js"
+			],
+			[
+				"reviewcon",
+				"Client\\app\\modules\\Artwork\\Review\\artworkReviewController.js"
+			],
+			[
+				"artwork-stats.html",
+				"Client\\app\\views\\artwork\\review\\artwork-stats.html"
+			],
+			[
+				"s3contr",
+				"Server\\shared\\S3Controller.js"
+			],
+			[
+				"titlematch.",
+				"Server\\routes-api\\titlematch.js"
+			],
+			[
+				"s3cont",
+				"Server\\shared\\S3Controller.js"
+			],
+			[
+				"s3monitor",
+				"Server\\work\\utilities\\S3Monitor.js"
+			],
+			[
+				"work",
+				"Server\\worker.log"
+			],
+			[
+				"worker.l",
+				"Server\\worker.log"
+			],
+			[
+				"crop.html",
+				"Client\\app\\views\\artwork\\review\\crop.html"
+			],
+			[
+				"crop.js",
+				"Client\\app\\modules\\Artwork\\Review\\directives\\crop.js"
+			],
+			[
+				"ratiocontroll",
+				"Client\\app\\modules\\Artwork\\Review\\artworkFixController.js"
+			],
+			[
+				"ratio.html",
+				"Client\\app\\views\\artwork\\review\\ratio.html"
+			],
+			[
+				"worker.",
+				"Server\\worker.log"
+			],
+			[
+				"worker",
+				"Server\\worker.log"
+			],
+			[
+				"env",
+				"env\\dev_db"
+			],
+			[
+				"migrat",
+				"dbmigration\\migrate.sh"
+			],
+			[
+				"rovi",
+				"Server\\work\\rovi\\ROVI.js"
+			],
+			[
+				"heroku",
+				"dbmigration\\flyway-heroku-prod.conf"
+			],
+			[
+				"processassettoartwork",
+				"Server\\work\\import\\processAssetToArtwork.js"
+			],
+			[
+				"flyway-heroku-",
+				"dbmigration\\flyway-heroku-staging.conf"
+			],
+			[
+				"flyway-heroku",
+				"dbmigration\\flyway-heroku-prod.conf"
+			],
+			[
+				"ftpcontr",
+				"Server\\shared\\ftpController.js"
+			],
+			[
+				"importmonitor",
+				"Server\\work\\import\\assetimport-monitor.js"
+			],
+			[
+				"work.lo",
+				"Server\\worker.log"
+			],
+			[
+				"processasset",
+				"Server\\work\\import\\processAssetToArtwork.js"
+			],
+			[
+				"fixart",
+				"Server\\work\\artwork\\fixArtworkTask.js"
+			],
+			[
+				"artworkfix",
+				"Client\\app\\modules\\Artwork\\Review\\artworkFixController.js"
+			],
+			[
+				"updateart",
+				"Server\\work\\artwork\\updateArtworkTask.js"
+			],
+			[
+				"pathsmodal",
+				"Client\\app\\views\\artwork\\review\\pathsModal.html"
+			],
+			[
+				"updateartworktask",
+				"Server\\work\\artwork\\updateArtworkTask.js"
+			],
+			[
+				"ftpmo",
+				"Server\\work\\utilities\\ftpMonitor.js"
+			],
+			[
+				"asset_export.js",
+				"Server\\work\\export\\asset_export.js"
+			],
+			[
+				"controller",
+				"Server\\shared\\ftpController.js"
+			],
+			[
+				"ftp",
+				"Server\\shared\\ftpController.js"
+			],
+			[
+				"config/win",
+				"Server\\config\\winston_manager.js"
+			],
+			[
+				"worker.log",
+				"Server\\worker.log"
+			],
+			[
+				"uuid",
+				"node_modules\\node-uuid\\uuid.js"
+			],
+			[
+				"ftpco",
+				"Server\\shared\\ftpController.js"
+			],
+			[
+				"ftpmon",
+				"Server\\work\\utilities\\ftpMonitor.js"
+			],
+			[
+				"roviftppollingmonitor",
+				"Server\\work\\cronjobs\\roviFtpPollingMonitor.js"
+			],
+			[
+				"cronimportmonitor",
+				"Server\\work\\import\\cronImportMonitor.js"
+			],
+			[
+				"asset_export",
+				"Server\\work\\export\\asset_export.js"
+			],
+			[
+				"assetexport-monitor",
+				"Server\\work\\export\\assetexport-monitor.js"
+			],
+			[
+				"assetimport-monitor",
+				"Server\\work\\import\\assetimport-monitor.js"
+			],
+			[
+				"queuemo",
+				"Server\\work\\cronjobs\\queue-monitor.js"
+			],
+			[
+				"queue",
+				"Server\\shared\\queueController.js"
+			],
+			[
+				"rabbit",
+				"Server\\config\\rabbit.js"
+			],
+			[
+				"queuecontroller",
+				"Server\\shared\\queueController.js"
+			],
+			[
+				"cron_service",
+				"Server\\work\\cronjobs\\cron_service.js"
+			],
+			[
+				"processar",
+				"Server\\work\\import\\processAssetToArtwork.js"
+			],
+			[
+				"dbmana",
+				"Server\\shared\\db_manager.js"
+			],
+			[
+				"ftpcon",
+				"Server\\shared\\ftpController.js"
+			],
+			[
+				"package.json",
+				"package.json"
+			],
+			[
+				"ftpcont",
+				"Server\\shared\\ftpController.js"
+			],
+			[
+				"customcrop",
+				"Client\\app\\views\\artwork\\review\\customcropmodal.html"
+			],
+			[
+				"server/artworkfix",
+				"Server\\work\\artwork\\fixArtworkTask.js"
+			],
+			[
+				"env/",
+				"env\\dev_db"
+			],
+			[
+				"crop",
+				"Client\\app\\modules\\Artwork\\Review\\directives\\crop.js"
+			],
+			[
+				"fixartwor",
+				"Server\\work\\services\\fixArtworkTask.js"
+			],
+			[
+				"reviewcontro",
+				"Client\\app\\modules\\Artwork\\Review\\artworkReviewController.js"
+			],
+			[
+				"fixcontro",
+				"Client\\app\\modules\\Artwork\\Review\\artworkFixController.js"
+			],
+			[
+				".gitig",
+				".gitignore"
+			],
+			[
+				"templates.js",
+				"Client\\app\\views\\templates.js"
+			],
+			[
+				"fixartw",
+				"Server\\work\\services\\fixArtworkTask.js"
+			],
+			[
+				"fixser",
+				"Client\\app\\modules\\Artwork\\Review\\services\\artworkFixService.js"
+			],
+			[
+				"s3",
+				"mp-ingest\\Server\\work\\utilities\\S3Controller.js"
+			],
+			[
+				"aws-sdkcore",
+				"mp-ingest\\node_modules\\aws-sdk\\lib\\core.js"
+			],
+			[
+				"aws-sd",
+				"mp-ingest\\node_modules\\aws-sdk\\dist\\aws-sdk.js"
+			],
+			[
+				"services/fix",
+				"mp-ingest-dev\\Server\\work\\services\\fixArtworkTask.js"
+			],
+			[
+				"routes-apiartwor",
+				"mp-ingest\\Server\\routes-api\\artwork.js"
+			],
+			[
+				"xsd-validator.js",
+				"mp-ingest\\Server\\shared\\XSD-validator.js"
+			],
+			[
+				"crop.htm",
+				"mp-ingest\\Client\\app\\views\\artwork\\review\\crop.html"
+			],
+			[
+				"client/app/views/artwork/sort/list.html",
+				"mp-ingest-dev\\Client\\app\\views\\artwork\\sort\\list.html"
+			],
+			[
+				"client/app/modules/artwork/sort/artworksortcontroller.js",
+				"mp-ingest-dev\\Client\\app\\modules\\Artwork\\Sort\\artworkSortController.js"
+			],
+			[
+				"server/services/rovi.js",
+				"mp-ingest-dev\\Server\\services\\ROVI.js"
+			],
+			[
+				"server/routes-api/rovi.js",
+				"mp-ingest-dev\\Server\\routes-api\\rovi.js"
+			],
+			[
+				"routes-apirovi.js",
+				"mp-ingest-dev\\Server\\routes-api\\rovi.js"
+			],
+			[
+				"rovi.js",
+				"mp-ingest\\Server\\services\\ROVI.js"
+			],
+			[
+				"serverservicesrovi",
+				"mp-ingest-dev\\Server\\services\\ROVI.js"
+			],
+			[
+				"devartworkindex",
+				"mp-ingest-dev\\Client\\app\\modules\\Artwork\\Sort\\index.js"
+			],
+			[
+				"mp-ingest-devclientsortcontr",
+				"mp-ingest-dev\\Client\\app\\modules\\Artwork\\Sort\\artworkSortController.js"
+			],
+			[
+				"mp-ingest-devservicesrovi",
+				"mp-ingest-dev\\Server\\services\\ROVI.js"
+			],
+			[
+				"mp-ingest-devrovi.js",
+				"mp-ingest-dev\\Server\\services\\ROVI.js"
+			],
+			[
+				"artworksort",
+				"Client\\app\\modules\\Artwork\\Sort\\artworkSortController.js"
+			],
+			[
+				"db",
+				"Server\\shared\\db_manager.js"
+			],
+			[
+				"flyway",
+				"dbmigration\\flyway-heroku-dev.conf"
+			],
+			[
+				"apiasset",
+				"Server\\routes-api\\asset.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 351.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

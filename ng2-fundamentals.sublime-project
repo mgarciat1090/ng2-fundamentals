@@ -1,0 +1,19 @@
+{
+	"file_exclude_patterns":
+	[
+		"*.js",
+		"*.js.map"
+	],
+	"folders":
+	[
+		{
+			"path": "."
+		},
+		{
+			"path": "E:\\WebDev\\dynamic"
+		},
+		{
+			"path": "E:\\WebDev\\exotechnia"
+		}
+	]
+}
