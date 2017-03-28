@@ -40,16 +40,7 @@
 			"file": "app/app.module.ts",
 			"settings":
 			{
-				"buffer_size": 580,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/nav/navbar.component.ts",
-			"settings":
-			{
-				"buffer_size": 320,
+				"buffer_size": 670,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -67,17 +58,28 @@
 			"file": "app/events/event-thumbnail.component.ts",
 			"settings":
 			{
-				"buffer_size": 1122,
+				"buffer_size": 1125,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "app/events/events-list.component.ts",
+			"file": "app/events/shared/event.service.ts",
 			"settings":
 			{
-				"buffer_size": 12476,
+				"buffer_size": 11942,
 				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "import { Component,OnInit } from '@angular/core'\nimport { EventService } from './shared/event.service'\n\n@Component({\n\tselector : 'events-list',\n\ttemplate : `\n\t<div>\n\t\t<h1>Upcoming Angular 2 Events</h1>\n\t\t<hr>\n\t\t<div class=\"row\">\n\t\t\t<div *ngFor=\"let event of events\" class=\"col-md-5\">\n\t\t\t\t<event-thumbnail  [event]=\"event\"></event-thumbnail>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n\t`\n})\n\nexport class EventsListComponent implements OnInit {\n\tevents:any[];\n\tconstructor(private eventService: EventService){\n\t\t\n\t}\n\n\tngOnInit(){\n\t\tthis.events = this.eventService.getEvents()\n\t}\n\n}",
+			"file": "app/events/events-list.component.ts",
+			"file_size": 567,
+			"file_write_time": 131347179797662920,
+			"settings":
+			{
+				"buffer_size": 564,
 				"line_ending": "Windows"
 			}
 		}
@@ -89,10 +91,14 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 297.0,
-		"last_filter": "comment",
+		"height": 241.0,
+		"last_filter": "install",
 		"selected_items":
 		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
 			[
 				"comment",
 				"Toggle Comment"
@@ -172,10 +178,6 @@
 			[
 				"sublim",
 				"SublimeServer: Manage SublimeServer Settings"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
 			],
 			[
 				"html",
@@ -286,7 +288,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 641.0
+		"width": 490.0
 	},
 	"console":
 	{
@@ -309,10 +311,12 @@
 		"/E/WebDev/ng2-fundamentals",
 		"/E/WebDev/ng2-fundamentals/app",
 		"/E/WebDev/ng2-fundamentals/app/events",
+		"/E/WebDev/ng2-fundamentals/app/events/shared",
 		"/E/WebDev/ng2-fundamentals/app/nav"
 	],
 	"file_history":
 	[
+		"/E/WebDev/ng2-fundamentals/app/nav/navbar.component.ts",
 		"/E/WebDev/ng2-fundamentals/index.html",
 		"/E/WebDev/ng2-fundamentals/app/nav/nav.component.ts",
 		"/E/WebDev/ng2-fundamentals/app/events-app.component.js",
@@ -439,8 +443,7 @@
 		"/E/WebDev/mp-ingest/Client/app/modules/Artwork/Review/index.js",
 		"/E/WebDev/mp-ingest/Client/app/styles/modules/artwork/artwork.scss",
 		"/E/WebDev/mp-ingest/Client/app/views/artwork/artwork.html",
-		"/E/WebDev/mp-ingest/Client/app/modules/Artwork/Review/services/artworkCompareService.js",
-		"/E/WebDev/mp-ingest/Client/app/views/artwork/review/compare.html"
+		"/E/WebDev/mp-ingest/Client/app/modules/Artwork/Review/services/artworkCompareService.js"
 	],
 	"find":
 	{
@@ -479,6 +482,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"getStartTimeStyle",
 			"EventEmitter",
 			"style",
 			"platformBrowserDynamic",
@@ -605,8 +609,7 @@
 			"appConfig",
 			"$http",
 			"$http.get",
-			"ArtworkCompareController",
-			"isActive"
+			"ArtworkCompareController"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -664,15 +667,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 580,
+						"buffer_size": 670,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								332,
-								332
+								605,
+								578
 							]
 						],
 						"settings":
@@ -695,35 +698,6 @@
 				},
 				{
 					"buffer": 2,
-					"file": "app/nav/navbar.component.ts",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 320,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								209,
-								209
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
-							"use_tab_stops": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
 					"file": "app/nav/navbar.component.html",
 					"semi_transient": false,
 					"settings":
@@ -750,30 +724,30 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
 		},
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
-					"buffer": 4,
+					"buffer": 3,
 					"file": "app/events/event-thumbnail.component.ts",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1122,
+						"buffer_size": 1125,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								810,
-								810
+								230,
+								230
 							]
 						],
 						"settings":
@@ -783,10 +757,40 @@
 							"use_tab_stops": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 396.0,
+						"translation.y": 14.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/events/shared/event.service.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11942,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								159,
+								190
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
@@ -795,15 +799,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 12476,
+						"buffer_size": 564,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								204,
-								204
+								25,
+								25
 							]
 						],
 						"settings":
@@ -812,11 +816,11 @@
 							"translate_tabs_to_spaces": false,
 							"use_tab_stops": false
 						},
-						"translation.x": 36.0,
+						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -850,7 +854,7 @@
 		"cols":
 		[
 			0.0,
-			0.399298916507,
+			0.428465583174,
 			1.0
 		],
 		"rows":
@@ -885,6 +889,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"eventthu",
+				"ng2-fundamentals\\app\\events\\event-thumbnail.component.ts"
+			],
 			[
 				"vote.html",
 				"DynKOA\\views\\newVote.html"
@@ -1381,7 +1389,7 @@
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 351.0,
 	"status_bar_visible": true,
 	"template_settings":
