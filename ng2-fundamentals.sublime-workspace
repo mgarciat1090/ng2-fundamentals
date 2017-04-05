@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"Error",
+				"Error404Component\talias"
+			],
+			[
 				"a",
 				"a\t<a>"
 			],
@@ -28,19 +32,19 @@
 	"buffers":
 	[
 		{
-			"file": "app/events-app.component.ts",
+			"file": "app/events/events-list.component.ts",
 			"settings":
 			{
-				"buffer_size": 188,
+				"buffer_size": 820,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "app/app.module.ts",
+			"file": "app/events/create-event.components.ts",
 			"settings":
 			{
-				"buffer_size": 670,
+				"buffer_size": 551,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -49,16 +53,7 @@
 			"file": "app/nav/navbar.component.html",
 			"settings":
 			{
-				"buffer_size": 1154,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/events/event-thumbnail.component.ts",
-			"settings":
-			{
-				"buffer_size": 1125,
+				"buffer_size": 1303,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -67,19 +62,44 @@
 			"file": "app/events/shared/event.service.ts",
 			"settings":
 			{
-				"buffer_size": 11942,
+				"buffer_size": 12157,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"contents": "import { Component,OnInit } from '@angular/core'\nimport { EventService } from './shared/event.service'\n\n@Component({\n\tselector : 'events-list',\n\ttemplate : `\n\t<div>\n\t\t<h1>Upcoming Angular 2 Events</h1>\n\t\t<hr>\n\t\t<div class=\"row\">\n\t\t\t<div *ngFor=\"let event of events\" class=\"col-md-5\">\n\t\t\t\t<event-thumbnail  [event]=\"event\"></event-thumbnail>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n\t`\n})\n\nexport class EventsListComponent implements OnInit {\n\tevents:any[];\n\tconstructor(private eventService: EventService){\n\t\t\n\t}\n\n\tngOnInit(){\n\t\tthis.events = this.eventService.getEvents()\n\t}\n\n}",
-			"file": "app/events/events-list.component.ts",
-			"file_size": 567,
-			"file_write_time": 131347179797662920,
+			"file": "app/nav/navbar.component.ts",
 			"settings":
 			{
-				"buffer_size": 564,
+				"buffer_size": 356,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/events/events-list-resolver.service.ts",
+			"settings":
+			{
+				"buffer_size": 343,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/app.module.ts",
+			"settings":
+			{
+				"buffer_size": 1638,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/routes.ts",
+			"settings":
+			{
+				"buffer_size": 937,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		}
@@ -310,6 +330,7 @@
 	[
 		"/E/WebDev/ng2-fundamentals",
 		"/E/WebDev/ng2-fundamentals/app",
+		"/E/WebDev/ng2-fundamentals/app/errors",
 		"/E/WebDev/ng2-fundamentals/app/events",
 		"/E/WebDev/ng2-fundamentals/app/events/shared",
 		"/E/WebDev/ng2-fundamentals/app/nav"
@@ -317,16 +338,25 @@
 	"file_history":
 	[
 		"/E/WebDev/ng2-fundamentals/app/nav/navbar.component.ts",
+		"/E/WebDev/ng2-fundamentals/app/events-app.component.ts",
+		"/E/WebDev/ng2-fundamentals/app/routes.ts",
+		"/E/WebDev/ng2-fundamentals/app/errors/404.component.ts",
+		"/E/WebDev/ng2-fundamentals/app/app.module.ts",
+		"/E/WebDev/ng2-fundamentals/app/events/event-details/event-route-activator.service.ts",
 		"/E/WebDev/ng2-fundamentals/index.html",
+		"/E/WebDev/ng2-fundamentals/app/events/event-details/event-details.component.ts",
+		"/E/WebDev/ng2-fundamentals/app/events/event-thumbnail.component.ts",
+		"/E/WebDev/ng2-fundamentals/app/events/event-details/event-details.component.html",
+		"/E/WebDev/ng2-fundamentals/app/events/shared/event.service.ts",
+		"/E/WebDev/ng2-fundamentals/app/events/events-list.component.ts",
+		"/E/WebDev/ng2-fundamentals/app/nav/navbar.component.html",
+		"/E/WebDev/ng2-fundamentals/app/common/toastr.service.ts",
+		"/E/WebDev/ng2-fundamentals/app/common/toastr.min.ts",
 		"/E/WebDev/ng2-fundamentals/app/nav/nav.component.ts",
 		"/E/WebDev/ng2-fundamentals/app/events-app.component.js",
-		"/E/WebDev/ng2-fundamentals/app/app.module.ts",
 		"/E/WebDev/ng2-fundamentals/app/main.ts",
-		"/E/WebDev/ng2-fundamentals/app/events-app.component.ts",
-		"/E/WebDev/ng2-fundamentals/app/events/event-thumbnail.component.ts",
 		"/E/WebDev/ng2-fundamentals/package.json",
 		"/E/WebDev/exotechnia/index.html",
-		"/E/WebDev/ng2-fundamentals/app/events/events-list.component.ts",
 		"/E/WebDev/dynamic/app.js",
 		"/E/WebDev/dynamic/static/index.html",
 		"/E/WebDev/dynamic/start.js",
@@ -434,16 +464,7 @@
 		"/E/WebDev/exotechnia/client/app/app.constants.js",
 		"/E/WebDev/exotechnia/server/index.html",
 		"/E/WebDev/exotechnia/client/app/main/main.html",
-		"/E/WebDev/exotechnia/client/app/app.config.js",
-		"/E/WebDev/exotechnia/server/config/environment/shared.js",
-		"/E/WebDev/mp-ingest/dbmigration/flyway-heroku-staging.conf",
-		"/E/WebDev/mp-ingest/Server/routes-api/artwork.js",
-		"/E/WebDev/mp-ingest/Server/work/artwork/updateArtworkTask.js",
-		"/E/WebDev/mp-ingest/Client/app/modules/Artwork/Review/artworkFixedPathsController.js",
-		"/E/WebDev/mp-ingest/Client/app/modules/Artwork/Review/index.js",
-		"/E/WebDev/mp-ingest/Client/app/styles/modules/artwork/artwork.scss",
-		"/E/WebDev/mp-ingest/Client/app/views/artwork/artwork.html",
-		"/E/WebDev/mp-ingest/Client/app/modules/Artwork/Review/services/artworkCompareService.js"
+		"/E/WebDev/exotechnia/client/app/app.config.js"
 	],
 	"find":
 	{
@@ -482,6 +503,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"CreateEventComponent",
+			"canDeactivateCreateEvent",
+			"appRoutes",
 			"getStartTimeStyle",
 			"EventEmitter",
 			"style",
@@ -606,10 +630,7 @@
 			";\n",
 			"socket",
 			"confValues",
-			"appConfig",
-			"$http",
-			"$http.get",
-			"ArtworkCompareController"
+			"appConfig"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -629,29 +650,30 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "app/events-app.component.ts",
+					"file": "app/events/events-list.component.ts",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 188,
+						"buffer_size": 820,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								107,
-								107
+								488,
+								488
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"translate_tabs_to_spaces": false,
 							"use_tab_stops": false
 						},
 						"translation.x": 0.0,
@@ -663,30 +685,25 @@
 				},
 				{
 					"buffer": 1,
-					"file": "app/app.module.ts",
+					"file": "app/events/create-event.components.ts",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 670,
+						"buffer_size": 551,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								605,
-								578
+								253,
+								253
 							]
 						],
 						"settings":
 						{
+							"open_with_edit": true,
 							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
-							"typescript_plugin_format_options":
-							{
-								"convertTabsToSpaces": false,
-								"indentSize": 4,
-								"tabSize": 4
-							},
 							"use_tab_stops": false
 						},
 						"translation.x": 0.0,
@@ -702,82 +719,118 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1154,
+						"buffer_size": 1303,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1154,
-								1154
+								712,
+								712
 							]
 						],
 						"settings":
 						{
-							"open_with_edit": true,
+							"history_list_is_closing": true,
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 140.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
 		},
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 3,
-					"file": "app/events/event-thumbnail.component.ts",
+					"file": "app/events/shared/event.service.ts",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1125,
+						"buffer_size": 12157,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								230,
-								230
+								283,
+								283
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
-							"translate_tabs_to_spaces": false,
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							},
 							"use_tab_stops": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 14.0,
+						"translation.y": 54.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/nav/navbar.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 356,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								311,
+								311
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "app/events/shared/event.service.ts",
+					"buffer": 5,
+					"file": "app/events/events-list-resolver.service.ts",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 11942,
+						"buffer_size": 343,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								159,
-								190
+								261,
+								261
 							]
 						],
 						"settings":
@@ -794,20 +847,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "app/events/events-list.component.ts",
+					"buffer": 6,
+					"file": "app/app.module.ts",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 564,
+						"buffer_size": 1638,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								25,
-								25
+								1302,
+								1302
 							]
 						],
 						"settings":
@@ -817,10 +870,39 @@
 							"use_tab_stops": false
 						},
 						"translation.x": 0.0,
+						"translation.y": 322.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/routes.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 937,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								699,
+								699
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 7,
 					"type": "text"
 				}
 			]
@@ -854,7 +936,7 @@
 		"cols":
 		[
 			0.0,
-			0.428465583174,
+			0.5,
 			1.0
 		],
 		"rows":
@@ -889,6 +971,26 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"navbarcomponent.ts",
+				"ng2-fundamentals\\app\\nav\\navbar.component.ts"
+			],
+			[
+				"navbarcompon",
+				"ng2-fundamentals\\app\\nav\\navbar.component.html"
+			],
+			[
+				"navbarcomponentts",
+				"ng2-fundamentals\\app\\nav\\navbar.component.ts"
+			],
+			[
+				"navbar",
+				"ng2-fundamentals\\app\\nav\\navbar.component.ts"
+			],
+			[
+				"routes",
+				"ng2-fundamentals\\app\\routes.ts"
+			],
 			[
 				"eventthu",
 				"ng2-fundamentals\\app\\events\\event-thumbnail.component.ts"
@@ -1382,7 +1484,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},
