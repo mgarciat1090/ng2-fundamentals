@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"template",
+				"templateUrl\tproperty"
+			],
+			[
+				"templa",
+				"templateUrl\tproperty"
+			],
+			[
 				"Error",
 				"Error404Component\talias"
 			],
@@ -32,91 +40,10 @@
 	"buffers":
 	[
 		{
-			"file": "app/events/events-list.component.ts",
-			"settings":
-			{
-				"buffer_size": 820,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/events/create-event.components.ts",
-			"settings":
-			{
-				"buffer_size": 551,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/nav/navbar.component.html",
-			"settings":
-			{
-				"buffer_size": 1335,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/user/profile.component.ts",
-			"settings":
-			{
-				"buffer_size": 405,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "app/user/user.module.ts",
 			"settings":
 			{
-				"buffer_size": 406,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/user/user.routes.ts",
-			"settings":
-			{
-				"buffer_size": 141,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/routes.ts",
-			"settings":
-			{
-				"buffer_size": 1005,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/events/shared/event.service.ts",
-			"settings":
-			{
-				"buffer_size": 12157,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/nav/navbar.component.ts",
-			"settings":
-			{
-				"buffer_size": 356,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/events/events-list-resolver.service.ts",
-			"settings":
-			{
-				"buffer_size": 343,
+				"buffer_size": 579,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -125,25 +52,68 @@
 			"file": "app/app.module.ts",
 			"settings":
 			{
-				"buffer_size": 1292,
+				"buffer_size": 1522,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": ".gitignore",
+			"file": "app/routes.ts",
 			"settings":
 			{
-				"buffer_size": 74,
+				"buffer_size": 851,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "app/events/index.ts",
+			"file": "app/user/login.component.html",
 			"settings":
 			{
-				"buffer_size": 241,
+				"buffer_size": 1145,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/events/shared/event.model.ts",
+			"settings":
+			{
+				"buffer_size": 349,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/events/event-details/create-session.component.ts",
+			"settings":
+			{
+				"buffer_size": 1593,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/events/event-details/create-sessions.component.html",
+			"settings":
+			{
+				"buffer_size": 2496,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/events/create-event.components.ts",
+			"settings":
+			{
+				"buffer_size": 924,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "tsconfig.json",
+			"settings":
+			{
+				"buffer_size": 445,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -152,16 +122,61 @@
 			"file": "app/events/event-details/index.ts",
 			"settings":
 			{
+				"buffer_size": 132,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/user/login.component.ts",
+			"settings":
+			{
+				"buffer_size": 548,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/nav/navbar.component.html",
+			"settings":
+			{
+				"buffer_size": 1481,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/nav/navbar.component.ts",
+			"settings":
+			{
+				"buffer_size": 446,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/user/auth.service.ts",
+			"settings":
+			{
+				"buffer_size": 487,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/user/user.model.ts",
+			"settings":
+			{
 				"buffer_size": 90,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "app/events/shared/index.ts",
+			"file": "app/user/user.routes.ts",
 			"settings":
 			{
-				"buffer_size": 31,
+				"buffer_size": 237,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -371,7 +386,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 490.0
+		"width": 648.0
 	},
 	"console":
 	{
@@ -392,23 +407,41 @@
 	"expanded_folders":
 	[
 		"/E/WebDev/ng2-fundamentals",
-		"/E/WebDev/ng2-fundamentals/app"
+		"/E/WebDev/ng2-fundamentals/app",
+		"/E/WebDev/ng2-fundamentals/app/events",
+		"/E/WebDev/ng2-fundamentals/app/events/event-details",
+		"/E/WebDev/ng2-fundamentals/app/events/shared",
+		"/E/WebDev/ng2-fundamentals/app/nav",
+		"/E/WebDev/ng2-fundamentals/app/user"
 	],
 	"file_history":
 	[
-		"/E/WebDev/ng2-fundamentals/app/nav/navbar.component.ts",
-		"/E/WebDev/ng2-fundamentals/app/events-app.component.ts",
-		"/E/WebDev/ng2-fundamentals/app/routes.ts",
-		"/E/WebDev/ng2-fundamentals/app/errors/404.component.ts",
+		"/E/WebDev/ng2-fundamentals/.gitignore",
 		"/E/WebDev/ng2-fundamentals/app/app.module.ts",
+		"/E/WebDev/ng2-fundamentals/app/events/event-thumbnail.component.ts",
+		"/E/WebDev/ng2-fundamentals/app/events/shared/event.service.ts",
+		"/E/WebDev/ng2-fundamentals/app/routes.ts",
+		"/E/WebDev/ng2-fundamentals/app/user/user.routes.ts",
+		"/E/WebDev/ng2-fundamentals/app/user/user.module.ts",
+		"/E/WebDev/ng2-fundamentals/app/user/profile.component.ts",
+		"/E/WebDev/ng2-fundamentals/app/nav/navbar.component.html",
+		"/E/WebDev/ng2-fundamentals/app/events/create-event.components.ts",
+		"/E/WebDev/ng2-fundamentals/app/user/login.component.html",
+		"/E/WebDev/ng2-fundamentals/app/user/login.component.ts",
+		"/E/WebDev/ng2-fundamentals/app/events/events-list.component.ts",
+		"/E/WebDev/ng2-fundamentals/app/events/event-details/event-details.component.ts",
+		"/E/WebDev/ng2-fundamentals/app/events/shared/event.model.ts",
+		"/E/WebDev/ng2-fundamentals/app/events/index.ts",
+		"/E/WebDev/ng2-fundamentals/app/events/event-details/index.ts",
+		"/E/WebDev/ng2-fundamentals/app/events/shared/index.ts",
+		"/E/WebDev/ng2-fundamentals/app/nav/navbar.component.ts",
+		"/E/WebDev/ng2-fundamentals/app/events/events-list-resolver.service.ts",
+		"/E/WebDev/ng2-fundamentals/app/events/shared/index.js",
+		"/E/WebDev/ng2-fundamentals/app/events-app.component.ts",
+		"/E/WebDev/ng2-fundamentals/app/errors/404.component.ts",
 		"/E/WebDev/ng2-fundamentals/app/events/event-details/event-route-activator.service.ts",
 		"/E/WebDev/ng2-fundamentals/index.html",
-		"/E/WebDev/ng2-fundamentals/app/events/event-details/event-details.component.ts",
-		"/E/WebDev/ng2-fundamentals/app/events/event-thumbnail.component.ts",
 		"/E/WebDev/ng2-fundamentals/app/events/event-details/event-details.component.html",
-		"/E/WebDev/ng2-fundamentals/app/events/shared/event.service.ts",
-		"/E/WebDev/ng2-fundamentals/app/events/events-list.component.ts",
-		"/E/WebDev/ng2-fundamentals/app/nav/navbar.component.html",
 		"/E/WebDev/ng2-fundamentals/app/common/toastr.service.ts",
 		"/E/WebDev/ng2-fundamentals/app/common/toastr.min.ts",
 		"/E/WebDev/ng2-fundamentals/app/nav/nav.component.ts",
@@ -510,20 +543,7 @@
 		"/E/WebDev/avalonbd/src/lib/catalog/package.json",
 		"/E/WebDev/avalonbd/src/models/movie_details.js",
 		"/E/WebDev/avalonbd/src/models/movie.js",
-		"/E/WebDev/avalonbd/src/models/artist.js",
-		"/E/WebDev/react/js/app.js",
-		"/E/WebDev/react/js/components/Forum.react.js",
-		"/E/WebDev/react/package.json",
-		"/E/WebDev/react/index.html",
-		"/E/WebDev/react/js/components/ForumQuestion.react.js",
-		"/E/WebDev/react/js/components/ForumHeader.react.js",
-		"/E/WebDev/exotechnia/client/app/app.scss",
-		"/E/WebDev/exotechnia/client/app/main/main.scss",
-		"/E/WebDev/exotechnia/client/app/main/main.component.js",
-		"/E/WebDev/exotechnia/client/app/app.constants.js",
-		"/E/WebDev/exotechnia/server/index.html",
-		"/E/WebDev/exotechnia/client/app/main/main.html",
-		"/E/WebDev/exotechnia/client/app/app.config.js"
+		"/E/WebDev/avalonbd/src/models/artist.js"
 	],
 	"find":
 	{
@@ -562,6 +582,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"name",
+			"presenter",
+			"name",
+			"date:",
 			"CreateEventComponent",
 			"canDeactivateCreateEvent",
 			"appRoutes",
@@ -685,11 +709,7 @@
 			"istanbul",
 			"/js",
 			"class",
-			"confValues",
-			";\n",
-			"socket",
-			"confValues",
-			"appConfig"
+			"confValues"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -714,19 +734,143 @@
 			[
 				{
 					"buffer": 0,
-					"file": "app/events/events-list.component.ts",
+					"file": "app/user/user.module.ts",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 820,
+						"buffer_size": 579,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								488,
-								488
+								385,
+								385
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/app.module.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1522,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1075,
+								1075
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 389.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/routes.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 851,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								675,
+								675
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/user/login.component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								532,
+								533
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/events/shared/event.model.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 349,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
 							]
 						],
 						"settings":
@@ -739,24 +883,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 10,
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "app/events/create-event.components.ts",
+					"buffer": 5,
+					"file": "app/events/event-details/create-session.component.ts",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 551,
+						"buffer_size": 1593,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								253,
-								253
+								373,
+								373
 							]
 						],
 						"settings":
@@ -764,6 +908,185 @@
 							"open_with_edit": true,
 							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
 							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/events/event-details/create-sessions.component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2496,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2374,
+								2374
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 581.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/events/create-event.components.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 924,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								598,
+								270
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "tsconfig.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 445,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								43,
+								43
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "app/events/event-details/index.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 132,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								131,
+								131
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "app/user/login.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 548,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								467,
+								467
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "app/nav/navbar.component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1481,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1118,
+								1118
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -773,232 +1096,54 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "app/nav/navbar.component.html",
+					"buffer": 12,
+					"file": "app/nav/navbar.component.ts",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1335,
+						"buffer_size": 446,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								959,
-								959
+								441,
+								441
 							]
 						],
 						"settings":
 						{
-							"history_list_is_closing": true,
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 206.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "app/user/profile.component.ts",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 405,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								405,
-								405
-							]
-						],
-						"settings":
-						{
-							"open_with_edit": true,
-							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true,
-							"typescript_plugin_format_options":
-							{
-								"convertTabsToSpaces": true,
-								"indentSize": 2,
-								"tabSize": 2
-							},
-							"use_tab_stops": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "app/user/user.module.ts",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 406,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								393,
-								393
-							]
-						],
-						"settings":
-						{
-							"open_with_edit": true,
-							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
-							"typescript_plugin_format_options":
-							{
-								"convertTabsToSpaces": false,
-								"indentSize": 4,
-								"tabSize": 4
-							},
-							"use_tab_stops": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "app/user/user.routes.ts",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 141,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								120,
-								120
-							]
-						],
-						"settings":
-						{
-							"open_with_edit": true,
 							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
 							"use_tab_stops": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "app/routes.ts",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1005,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								937,
-								937
-							]
-						],
-						"settings":
-						{
-							"history_list_is_closing": true,
-							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
-							"use_tab_stops": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 4,
-			"sheets":
-			[
-				{
-					"buffer": 7,
-					"file": "app/events/shared/event.service.ts",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 12157,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								283,
-								283
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true,
-							"typescript_plugin_format_options":
-							{
-								"convertTabsToSpaces": true,
-								"indentSize": 2,
-								"tabSize": 2
-							},
-							"use_tab_stops": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 54.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 12,
 					"type": "text"
 				},
 				{
-					"buffer": 8,
-					"file": "app/nav/navbar.component.ts",
+					"buffer": 13,
+					"file": "app/user/auth.service.ts",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 356,
+						"buffer_size": 487,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								311,
-								311
+								344,
+								344
 							]
 						],
 						"settings":
 						{
+							"open_with_edit": true,
 							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
 							"use_tab_stops": false
 						},
@@ -1010,20 +1155,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 9,
-					"file": "app/events/events-list-resolver.service.ts",
+					"buffer": 14,
+					"file": "app/user/user.model.ts",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 343,
+						"buffer_size": 90,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								261,
-								261
+								88,
+								88
 							]
 						],
 						"settings":
@@ -1040,173 +1185,24 @@
 					"type": "text"
 				},
 				{
-					"buffer": 10,
-					"file": "app/app.module.ts",
+					"buffer": 15,
+					"file": "app/user/user.routes.ts",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1292,
+						"buffer_size": 237,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								604,
-								604
+								233,
+								233
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
-							"translate_tabs_to_spaces": false,
-							"use_tab_stops": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 11,
-					"file": ".gitignore",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 74,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								72,
-								72
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 12,
-					"file": "app/events/index.ts",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 241,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								241,
-								241
-							]
-						],
-						"settings":
-						{
-							"open_with_edit": true,
-							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
-							"use_tab_stops": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 13,
-					"file": "app/events/event-details/index.ts",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 90,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								90,
-								90
-							]
-						],
-						"settings":
-						{
-							"open_with_edit": true,
-							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
-							"use_tab_stops": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 14,
-					"file": "app/events/shared/index.ts",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 31,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								31,
-								31
-							]
-						],
-						"settings":
-						{
-							"open_with_edit": true,
-							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
-							"use_tab_stops": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "app/routes.ts",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1005,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								699,
-								699
-							]
-						],
-						"settings":
-						{
-							"history_list_is_closing": true,
 							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
 							"use_tab_stops": false
 						},
@@ -1237,18 +1233,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.5,
 			1.0
 		],
 		"rows":
@@ -1284,16 +1273,68 @@
 		"selected_items":
 		[
 			[
-				".",
-				"ng2-fundamentals\\.gitignore"
+				"createevent",
+				"ng2-fundamentals\\app\\events\\create-event.components.ts"
+			],
+			[
+				"createsessioncom",
+				"ng2-fundamentals\\app\\events\\event-details\\create-sessions.component.html"
+			],
+			[
+				"createsession",
+				"ng2-fundamentals\\app\\events\\event-details\\create-session.component.ts"
 			],
 			[
 				"routes.ts",
 				"ng2-fundamentals\\app\\routes.ts"
 			],
 			[
+				"app.modu",
+				"ng2-fundamentals\\app\\app.module.ts"
+			],
+			[
+				"event.model",
+				"ng2-fundamentals\\app\\events\\shared\\event.model.ts"
+			],
+			[
 				"navbarcomponent.ts",
 				"ng2-fundamentals\\app\\nav\\navbar.component.ts"
+			],
+			[
+				"navcomponent",
+				"ng2-fundamentals\\app\\nav\\navbar.component.html"
+			],
+			[
+				"appmodule.ts",
+				"ng2-fundamentals\\app\\app.module.ts"
+			],
+			[
+				"logincomponent.ts",
+				"ng2-fundamentals\\app\\user\\login.component.ts"
+			],
+			[
+				"login.html",
+				"ng2-fundamentals\\app\\user\\login.component.html"
+			],
+			[
+				"user.modul",
+				"ng2-fundamentals\\app\\user\\user.module.ts"
+			],
+			[
+				"user.routes.ts",
+				"ng2-fundamentals\\app\\user\\user.routes.ts"
+			],
+			[
+				"user.module.ts",
+				"ng2-fundamentals\\app\\user\\user.module.ts"
+			],
+			[
+				"event.service",
+				"ng2-fundamentals\\app\\events\\shared\\event.service.ts"
+			],
+			[
+				".",
+				"ng2-fundamentals\\.gitignore"
 			],
 			[
 				"navbarcompon",
@@ -1742,46 +1783,6 @@
 			[
 				"routes-apirovi.js",
 				"mp-ingest-dev\\Server\\routes-api\\rovi.js"
-			],
-			[
-				"rovi.js",
-				"mp-ingest\\Server\\services\\ROVI.js"
-			],
-			[
-				"serverservicesrovi",
-				"mp-ingest-dev\\Server\\services\\ROVI.js"
-			],
-			[
-				"devartworkindex",
-				"mp-ingest-dev\\Client\\app\\modules\\Artwork\\Sort\\index.js"
-			],
-			[
-				"mp-ingest-devclientsortcontr",
-				"mp-ingest-dev\\Client\\app\\modules\\Artwork\\Sort\\artworkSortController.js"
-			],
-			[
-				"mp-ingest-devservicesrovi",
-				"mp-ingest-dev\\Server\\services\\ROVI.js"
-			],
-			[
-				"mp-ingest-devrovi.js",
-				"mp-ingest-dev\\Server\\services\\ROVI.js"
-			],
-			[
-				"artworksort",
-				"Client\\app\\modules\\Artwork\\Sort\\artworkSortController.js"
-			],
-			[
-				"db",
-				"Server\\shared\\db_manager.js"
-			],
-			[
-				"flyway",
-				"dbmigration\\flyway-heroku-dev.conf"
-			],
-			[
-				"apiasset",
-				"Server\\routes-api\\asset.js"
 			]
 		],
 		"width": 0.0
@@ -1804,7 +1805,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},
